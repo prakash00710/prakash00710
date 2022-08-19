@@ -1,13 +1,14 @@
 
 <h1 align="center">I'm Prakash Keshari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Currently Learning Data Analysis from Masai School </h2>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
+<br>
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 - 👨‍💻 My Portfolio - **[Prakash Keshari](https://prakashkeshari.dev.voyage/)**
 - 🌱 I’m currently learning **Machine Learning.**
 My Kaggle - **[Prakash Keshari](https://www.kaggle.com/prakashkeshari)**
 - 📫 How to reach me **prakash00710@gmail.com**
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
-<br>
+
 
 - Connect with me - **[LinkedIn](https://www.linkedin.com/in/prakash-keshari-3610911ba)**
 
