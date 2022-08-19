@@ -24,12 +24,5 @@
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rshukla12&theme=dark" /> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rshukla12&show_icons=true&locale=en&theme=dark"/>
 </p>
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<br>
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
-</h3>
+
 
