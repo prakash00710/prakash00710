@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Prakash Keshari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Currently Learning Data Analysis from Masai School </h2>
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 - 👨‍💻 My Portfolio - **[Prakash Keshari](https://prakashkeshari.dev.voyage/)**
 - 🌱 I’m currently learning **Machine Learning.**
 My Kaggle - **[Prakash Keshari](https://www.kaggle.com/prakashkeshari)**
