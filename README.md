@@ -14,9 +14,9 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 <p>
    <a href="#"> <img src="https://img.shields.io/badge/EXCEL-orange?style=for-the-badge&labelColor=black&logo=Excel&logoColor=orange" alt="EXCEL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=MS-SQL&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=SQL&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F" alt="Python"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Tableau-F0DB4F?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=green" alt="Tableau"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-Tableau-F0DB4F?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=red" alt="Tableau"/> </a> &nbsp;
   
 </p>
 <h3>📊 Github Stats</h3>
