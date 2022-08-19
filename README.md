@@ -17,6 +17,8 @@
    <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=SQL&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F" alt="Python"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Tableau-F0DB4F?style=for-the-badge&labelColor=black&logo=Tableau&logoColor=SlateBlue" alt="Tableau"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Machine Learning-00C7B7?style=for-the-badge&labelColor=black&logo=Machine Learning&logoColor=white" alt="Machine Learning"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
   
 </p>
 <h3>📊 Github Stats</h3>
