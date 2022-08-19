@@ -14,10 +14,9 @@
 - :zap: In my free time, I solve python questions and work on visualization.
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/prakash-keshari-3610911ba)
 
+ <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Data Analysis By ME
 
-<br/>
-
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/>
+ <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/>
    
 
    Languages and Tools:</p> 
@@ -57,4 +56,7 @@
 </p>
 
 ![snake gif](https://github.com/samar4saeedkhan/samar4saeedkhan/blob/output/github-contribution-grid-snake.gif)
+
+
+
   
