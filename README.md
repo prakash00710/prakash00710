@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi there! I'm Prakash Keshari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Currently Learning Data Analysis from Masai School </h2>
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
