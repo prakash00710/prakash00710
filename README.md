@@ -46,7 +46,12 @@
    <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-      
+
+My Tableau Project
+ ![Screenshot 2022-08-19 191348](https://user-images.githubusercontent.com/38596106/185632492-b1654112-eafc-4967-8bd9-d72abd8bdc7a.png)
+ ![Screenshot 2022-08-22 182259](https://user-images.githubusercontent.com/38596106/185925923-2f216f81-2c04-4d0f-91bc-68496ba469f3.png)
+
+
 </p>
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
    
@@ -55,11 +60,4 @@
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=prakash00710&theme=dark" /> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash00710&show_icons=true&locale=en&theme=dark"/>
 </p>
-
-![snake gif](https://github.com/samar4saeedkhan/samar4saeedkhan/blob/output/github-contribution-grid-snake.gif)
-
-My Tableau Project
- ![Screenshot 2022-08-19 191348](https://user-images.githubusercontent.com/38596106/185632492-b1654112-eafc-4967-8bd9-d72abd8bdc7a.png)
-
-
   
