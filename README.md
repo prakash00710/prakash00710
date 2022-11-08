@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
  
- - 👨‍💻 My Portfolio -[Prakash Keshari](rakashkeshari.dev.voyage)
+ - 👨‍💻 My Portfolio -[Prakash Keshari](Prakashkeshari.dev.voyage)
 
 - 🌱 I’m currently learning **Machine Learning.**
 
