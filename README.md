@@ -7,12 +7,12 @@
  
  - 👨‍💻 My Portfolio -[Prakash Keshari](Prakashkeshari.dev.voyage)
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning/Deep Learning/AI/Generative AI.**
 
  - My Kaggle - **[Prakash Keshari](https://www.kaggle.com/prakashkeshari)**
 
 - 📫 How to reach me **prakash00710@gmail.com**
-- :zap: In my free time, I solve python questions and work on visualization.
+- :zap: In my free time, I solve Python questions and work on machine learning models and deep learning models.
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/prakash-keshari-3610911ba)
 
  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Data Analysis By ME
